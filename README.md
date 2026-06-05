@@ -3,6 +3,6 @@
 tg: @schenevmerlyk
 
 
-# To-Do list, що дозволяє створювати, редагувати, переглядати та видаляти задачі. 
+# To-Do list, додаток призначений для організації особистих завдань користувача з можливістю реєстрації, автентифікації, перегляду профілю та повного керування списком справ (створення, редагування, відмітка про виконання, видалення).
 
-[Звіт](https://docs.google.com/document/d/1GSZwb2Ou8XjnkftKRnfgCjO5e4pf2L2dWZDKYA-swAU/edit?usp=sharing)
+[Звіт](https://docs.google.com/document/d/1V-QnsFY8Qh3U0V2U5O_dyrP-lJbKyIIdWw36f7GfdFE/edit?usp=sharing)
