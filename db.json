@@ -1,0 +1,38 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "name": "Тест",
+      "email": "test@example.com",
+      "gender": "Чоловіча",
+      "dob": "1990-01-01",
+      "password": "123456"
+    },
+    {
+      "name": "кв-51мп Петраш Павло",
+      "email": "pavlopetrash@gmail.com",
+      "gender": "Чоловіча",
+      "dob": "2026-06-05",
+      "password": "123",
+      "id": "Y9FUEpevqMQ"
+    },
+    {
+      "name": "Петраш Павло КВ-51мп",
+      "email": "nastymyrnaya@gmail.com",
+      "gender": "Чоловіча",
+      "dob": "2026-06-05",
+      "password": "1234",
+      "id": "wsKANQ4wDr8"
+    }
+  ],
+  "todos": [
+    {
+      "userId": "Y9FUEpevqMQ",
+      "title": "123",
+      "description": "456",
+      "completed": false,
+      "id": "sQuU2VG_o1U"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
